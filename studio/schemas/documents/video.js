@@ -1,6 +1,6 @@
 export default  {
-      title: "Video blog post",
-      name: "videoBlogPost",
+      title: "Video",
+      name: "video",
       type: "document",
       fields: [
         { title: "Title", name: "title", type: "string" },
