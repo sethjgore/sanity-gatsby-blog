@@ -28,7 +28,7 @@ export default createSchema({
     // The following are document types which will appear
     // in the studio.
     siteSettings,
-    video
+    video,
     post,
     category,
     author,
